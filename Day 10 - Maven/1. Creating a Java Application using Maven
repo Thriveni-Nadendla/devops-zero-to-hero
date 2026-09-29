@@ -1,1 +1,5 @@
+mvn archetype:generate
+the above command will default generate jar file it will show some number will check with that number we can see the follow it is jar file
+org.apache.maven.archetypes:maven-archetype-quickstart (An archetype which contains a sample Maven project.)
 
+once we enter the required nuber it will sk few details like version ,groupid,artifact id(project name),artifact version, package name(same as groupid) we need to fill and enter then it will create the project
